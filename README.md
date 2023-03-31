@@ -1,5 +1,4 @@
 # Hi, I'm Renu 👋🏾 👩🏾‍💻
-
 ![image](assets/banner2.webp "Go with Go-language")
 
 
