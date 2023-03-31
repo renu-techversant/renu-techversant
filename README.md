@@ -7,7 +7,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 
 ## Find me around the web 🌎: <img align="left" width="200" height="200" src="https://github.com/renu-techversant/renu-techversant/blob/main/assets/gopher.gif?raw=true">
-<div padding="20px"><ul>
+<div padding-left="200px"><ul>
 <li> Sharing my Personal thoughts on <a href="https://shethepride.godaddysites.com/">SheThePride</a>✍🏾</li>
 <li> Sharing my Professional thoughts on <a href="https://www.linkedin.com/in/renu-p/">LinkedIn</a> 💼</li>
 </ul></div>
