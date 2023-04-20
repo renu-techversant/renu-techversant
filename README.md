@@ -1,7 +1,7 @@
 ## 👋Hi, I'm Renu.
 
 
-<img align="right" src="https://github.com/renu-techversant/renu-techversant/blob/main/assets/coder-girl1.gif"><br/>
+<img align="right" src="https://github.com/renu-techversant/renu-techversant/blob/main/assets/coder-girl1.gif" style="max-width:100%;"><br/>
 <span style="white-space: nowrap;"><p>I'm a software enthusiast with over 5 years of experience in software development. 
 
 My skills include programming, web development, Microservices, database design, and web3. I'm passionate about creating high-quality software that solves real-world problems.</p>
