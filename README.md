@@ -1,7 +1,9 @@
 # Hi, I'm Renu 👋🏾 👩🏾‍💻
 
 
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.
+I'm a software enthusiast with over 5 years of experience in software development. My skills include programming, web development, Microservices, database design, and web3. I'm passionate about creating high-quality software that solves real-world problems.
+
+I'm excited about the future of software development and I'm committed to staying up-to-date with the latest trends and technologies. Let's create something amazing together!
 
 
 ## Find me around the web 🌎: <img align="left" width="200" height="200" src="https://github.com/renu-techversant/renu-techversant/blob/main/assets/programming-girl.gif">
